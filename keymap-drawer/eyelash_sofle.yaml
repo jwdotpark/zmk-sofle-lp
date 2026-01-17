@@ -123,7 +123,7 @@ layers:
   - $$mdi:volume-high$$
   - PREVIOUS
   - PLAY PAUSE
-  - NEXT
+  - $$mdi:skip-next$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:volume-off$$
   - HOME
