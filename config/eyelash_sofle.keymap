@@ -83,11 +83,11 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp F1             &kp F2           &kp F3       &kp F4      &kp F5        &mmv MOVE_UP     &kp F6      &kp F7            &kp F8             &kp F9          &kp F10    &kp DELETE
-&kp TILDE   &kp LC(LS(TAB))    &kp UP_ARROW     &kp LC(TAB)  &trans      &trans        &mmv MOVE_DOWN   &trans      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS       &kp EQUAL  &kp BACKSLASH
-&trans      &kp LEFT           &kp DOWN         &kp RIGHT    &trans      &trans        &mmv MOVE_LEFT   &trans      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp UNDERSCORE  &kp PLUS   &kp ENTER
-&mo 2       &trans             &trans           &kp F11      &kp F12     &kp F13       &mmv MOVE_RIGHT  &trans      &trans            &trans             &kp GRAVE       &kp TILDE  &kp RIGHT_SHIFT
-&kp C_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PREV   &kp C_PLAY  &kp C_NEXT    &mkp LCLK        &kp C_MUTE  &kp HOME          &kp PAGE_DOWN      &kp PAGE_UP     &kp END
+&kp GRAVE   &kp F1             &kp F2           &kp F3          &kp F4            &kp F5        &mmv MOVE_UP     &kp F6      &kp F7            &kp F8             &kp F9          &kp F10    &kp DELETE
+&kp TILDE   &kp LC(LS(TAB))    &kp UP_ARROW     &kp LC(TAB)     &trans            &trans        &mmv MOVE_DOWN   &trans      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS       &kp EQUAL  &kp BACKSLASH
+&trans      &kp LEFT           &kp DOWN         &kp RIGHT       &trans            &trans        &mmv MOVE_LEFT   &trans      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp UNDERSCORE  &kp PLUS   &kp ENTER
+&mo 2       &trans             &trans           &kp F11         &kp F12           &kp F13       &mmv MOVE_RIGHT  &trans      &trans            &trans             &kp GRAVE       &kp TILDE  &kp RIGHT_SHIFT
+&kp C_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp K_PREVIOUS  &kp K_PLAY_PAUSE  &kp K_NEXT    &mkp LCLK        &kp C_MUTE  &kp HOME          &kp PAGE_DOWN      &kp PAGE_UP     &kp END
             >;
 
             display-name = "layer1";
