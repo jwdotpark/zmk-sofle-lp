@@ -121,9 +121,9 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
-  - $$mdi:skip-previous$$
-  - PLAY
-  - $$mdi:skip-next$$
+  - PREVIOUS
+  - PLAY PAUSE
+  - NEXT
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:volume-off$$
   - HOME
