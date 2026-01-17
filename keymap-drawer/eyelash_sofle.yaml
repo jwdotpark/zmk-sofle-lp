@@ -123,7 +123,7 @@ layers:
   - $$mdi:volume-high$$
   - $$mdi:skip-previous$$
   - PLAY
-  - Sft+$$mdi:skip-next$$
+  - $$mdi:skip-next$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:volume-off$$
   - HOME
@@ -156,7 +156,7 @@ layers:
   - F11
   - F12
   - _
-  - +
+  - '|'
   - {type: held}
   - OUT USB
   - OUT BLE
