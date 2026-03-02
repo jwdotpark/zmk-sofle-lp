@@ -99,7 +99,7 @@ layers:
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
-  - F24
+  - PAUSE
   - '{'
   - '}'
   - _
