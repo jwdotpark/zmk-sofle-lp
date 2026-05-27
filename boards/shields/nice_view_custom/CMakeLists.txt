@@ -1,3 +1,3 @@
 if(CONFIG_SHIELD_NICE_VIEW_CUSTOM)
-    add_subdirectory(widgets)
+    target_sources(app PRIVATE ${CMAKE_CURRENT_LIST_DIR}/widgets/art.c)
 endif()
