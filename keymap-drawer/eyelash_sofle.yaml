@@ -72,7 +72,7 @@ layers:
   - F3
   - F4
   - F5
-  - Ctl+Sft+$$mdi:backspace-reverse-outline$$
+  - SLEEP
   - F6
   - F7
   - F8
@@ -85,7 +85,7 @@ layers:
   - Ctl+$$mdi:keyboard-tab$$
   - $$mdi:volume-off$$
   - SLEEP
-  - SLEEP
+  - Ctl+$$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
@@ -98,7 +98,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
-  - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
+  - Alt+Sft+P
   - PAUSE
   - '{'
   - '}'
@@ -111,7 +111,7 @@ layers:
   - F11
   - F12
   - F13
-  - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
+  - Alt+Sft+N
   - PREVIOUS
   - PLAY PAUSE
   - $$mdi:skip-next$$
